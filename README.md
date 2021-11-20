@@ -9,3 +9,6 @@
 แสดงรูปกราฟสําหรับ Frequency Response (Bode Plot: Magnitude และ Phase)
 สามารถกำหนดช่วงเวลากราฟได้ จากตรง start time และ end time 
 software ที่ใช้งาน MATLAB App Designer 
+
+ถ้าเปิดโปรแกรมจากmatlab ในคอมพิวเตอร์ให้ทำการ add on ตัวใดตัวหนึ่งจากภาพด้านล่างนี้ แต่ถ้าออนไลน์สามารถเปิดได้เลย
+<a href="https://ibb.co/L0hXTkD"><img src="https://i.ibb.co/tHPT0mw/C63-BA1-AF-0-BCF-42-D7-885-E-9778-C5-AEF8-FE.jpg" alt="C63-BA1-AF-0-BCF-42-D7-885-E-9778-C5-AEF8-FE" border="0"></a>
